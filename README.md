@@ -1,2 +1,0 @@
-# mooxam
-portafolio personal
